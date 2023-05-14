@@ -18,6 +18,6 @@ This basic vue application is about a game where the user has four options for a
  ***
  
  ## 🕹️ How to play it? 
- You just need to click on here  ➙ <b><a href="https://salvedojuliao.github.io/vue_exercise-monster_game/"> Monster Attack Game </a></b>
+ You just need to click on here  ➙ <b><a href="https://jaycesar.github.io/vue_exercise-monster_game/"> Monster Attack Game </a></b>
 
  ### 😊 Have fun! 
